@@ -8,3 +8,7 @@ Un blog de ejemplo
 * Flujo de trabajo en Github
 * Buenas prácticas
 * Trucos del profesor
+* Personalidades multiples
+* Creado incleible Team
+
+
