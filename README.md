@@ -11,5 +11,6 @@ Un blog de ejemplo
 * Personalidades multiples
 * Creado incleible Team
 * Incluye ejemplos en Windows
+* Disponible para todas las edades
 
 
