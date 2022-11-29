@@ -10,5 +10,7 @@ Un blog de ejemplo
 * Trucos del profesor
 * Personalidades multiples
 * Creado incleible Team
+* Incluye ejemplos en Windows
+* Disponible para todas las edades
 
 
